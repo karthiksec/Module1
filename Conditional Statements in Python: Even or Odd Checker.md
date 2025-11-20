@@ -25,7 +25,7 @@ else:
 
 ## Output
 
-![image](https://github.com/user-attachments/assets/e5040a25-ef1a-45d9-9084-08589fabb85d)
+<img width="464" height="347" alt="image" src="https://github.com/user-attachments/assets/4f663229-d344-42a2-9e0a-bfd56a8d88bb" />
 
 ## Result
  Thus,the Python program to check whether the given number is **even** or **odd** using `if...else` statements is created successfully. 
