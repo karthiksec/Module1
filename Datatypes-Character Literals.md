@@ -17,7 +17,8 @@ print(b)
 ```
 
 ## Output
-![image](https://github.com/user-attachments/assets/46c885d6-3cb6-4006-b3be-08d97d86236d)
+<img width="434" height="326" alt="image" src="https://github.com/user-attachments/assets/01445f02-f57d-4050-bc42-0594f558e3f8" />
+
 
 
 ## Result
