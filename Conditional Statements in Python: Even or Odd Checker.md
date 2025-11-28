@@ -1,4 +1,4 @@
-# 1a)Conditional Statements in Python: Even or Odd Checker
+# 1A.Conditional Statements in Python: Even or Odd Checker
 
 ## Aim
 
